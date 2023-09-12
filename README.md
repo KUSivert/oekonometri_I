@@ -1,1 +1,1 @@
-# oekonometri_I
+# Økonometri I
